@@ -8,8 +8,8 @@ Make to sure to you have aws credentials on your machine.
 https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html
 
 ```
-export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+export AWS_ACCESS_KEY_ID=1243434234
+export AWS_SECRET_ACCESS_KEY=erwqrer/K7MDENG/erqrwer
 export AWS_DEFAULT_REGION=us-west-2
 ```
 
