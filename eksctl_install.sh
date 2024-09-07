@@ -49,6 +49,8 @@ then
 		echo "Cluster setup failed."
 		fi
 
+#get kube config file aws eks update-kubeconfig --region region-code --name my-cluster
+
 
 #to destroy issue this command:
 # eksctl delete cluster <NAME YOU GAVE TO THE CLUSTER> 
