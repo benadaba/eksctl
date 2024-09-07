@@ -55,3 +55,4 @@ then
 #to destroy issue this command:
 # eksctl delete cluster <NAME YOU GAVE TO THE CLUSTER> 
 # eg: eksctl delete cluster  cluster-with-eksctl
+# eksctl delete cluster  ghaClusterAutomated --region eu-west-2
