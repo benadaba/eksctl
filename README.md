@@ -20,4 +20,24 @@ https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html
 aws configure
 ```
 
-and follow the prompts
+
+### Install EKS eksctl by the installation instructions here : https://github.com/eksctl-io/eksctl/tree/v0.216.0  
+For example
+
+#### MAC /homebrew
+```
+brew tap weaveworks/tap
+brew install weaveworks/tap/eksctl
+```
+
+
+#### Windows / chocolatey
+For Windows
+chocolatey
+```
+choco install eksctl
+```
+
+
+    
+#### and follow the prompts
