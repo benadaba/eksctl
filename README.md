@@ -40,4 +40,8 @@ choco install eksctl
 
 
     
-#### and follow the prompts
+#### and follow the prompts to install it.   
+
+
+TO DELETE THE CLUSTER WHEN DONE USE THIS COMMAND:
+### eksctl delete cluster  ghaClusterAutomated --region eu-west-2
